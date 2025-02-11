@@ -1,2 +1,2 @@
 # DetectX
-This is my first minor project
+This my minor project
